@@ -1,2 +1,0 @@
-# tesla
-Created with CodeSandbox
